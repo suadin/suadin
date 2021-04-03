@@ -1,0 +1,7 @@
+- 👋 Hi, I’m suadin :-).
+- 👀 I’m interested in learning new stuff around full-stack development.
+- 🌱 I’m currently learning blazor web assemblies and how to setup lightweight and cheep ci/cd
+  - suadin/sukig is my first ✨ blazor ✨ project. I plan to implement into that website implementations from older times like simple games or new ideas like knowledge card collections.
+  - suadin/infrastructure contains the ✨ ci/cd ✨ part with docs how I did it with aim to be as simple & reusable as possible.
+- 💞️ I’m looking to collaborate on best practises, am open for potential improvements.
+- 📫 How to reach me? Maybe you can find me in suadin.de teamspeak :-). But via mail is as well ok.
