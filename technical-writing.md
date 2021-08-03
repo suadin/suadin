@@ -40,10 +40,10 @@ Plan -> Research -> Write -> Review/Edit
 ## Plan
 
 Purpose (Why document exists?)
-* Persuate readers to think/act a certain way
-* Enable to perform task
-* Help to understand something
-* Change users attitute
+* Proposal: Persuate readers to think/act a certain way
+* Guide: Enable to perform task
+* Description: Help to understand something
+* Marketing: Change users attitute
 
 Purpose (Software Documentation)
 * Requirements: what to built, verify meeting stakeholders expectation
