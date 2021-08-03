@@ -6,6 +6,7 @@
    1. [Research](#research)
    1. [Write](#write)
    1. [Review/Edit](#review/edit)
+1. [Best Practises](#best practises)
 1. [Sources](#sources)
 
 # Motivation
@@ -101,6 +102,7 @@ Usability Testing
 * Accuracy: careful conforming to truth or fact. consult SMEs, usability testing, proofread.
 * Clarity: ease of understanding. Be specific, active, strong.
 * Concisebess: conveys only needed material. Clear focus, remove not needed materials/words, prefer visuals. Use short sentences.
+* Tense: Use present or future tense, stay consistent.
 
 # Sources
 
