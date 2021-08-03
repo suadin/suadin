@@ -6,7 +6,7 @@
    1. [Research](#research)
    1. [Write](#write)
    1. [Review/Edit](#review/edit)
-1. [Best Practises](#best practises)
+1. [Best Practises](#best-practises)
 1. [Sources](#sources)
 
 # Motivation
