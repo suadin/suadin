@@ -5,7 +5,7 @@
    1. [Plan](#plan)
    1. [Research](#research)
    1. [Write](#write)
-   1. [Review/Edit](#review/edit)
+   1. [Review](#review)
 1. [Best Practises](#best-practises)
 1. [Sources](#sources)
 
@@ -90,7 +90,7 @@ SME Interview
    * possible questions from reader?
    * easy to understand?
 
-## Review/Edit
+## Review
 
 Usability Testing
 * Have someone else do it
