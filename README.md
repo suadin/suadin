@@ -1,7 +1,8 @@
 * 👋 Hi, I’m suadin :-).
-* 👀 I’m interested in learning new stuff around full-stack development.
-* 🌱 I’m currently learning blazor web-assemblies and how to setup lightweight and cheep ci/cd
-  * suadin/suadin.de is my first ✨blazor✨ project. I plan to implement stuff from older times like simple games or new ideas like knowledge card collections.
-  * suadin/infrastructure documents ✨server✨ and ✨ci/cd✨ part with aim to be as simple & reusable as possible.
+* 👀 With 2026 AI and vibe coding grows.
+* 🌱 I’m currently learning how to vibe-code without loosing control:
+  * suadin/four-wins is my first vibe-coded: https://suadin.github.io/four-wins/.
+  * suadin/die-wand is a bookmark viewer daily in use: https://suadin.github.io/die-wand/
+  * suadin/taler will be a financial flow manager providing overviews
 * 💞️ I’m looking to collaborate on best practises, am open for potential improvements.
-* 📫 How to reach me? Maybe you can find me in suadin.de teamspeak :-). But via mail is as well ok.
+* 📫 How to reach me? Request me in discord: sua01n.
